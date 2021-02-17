@@ -1,0 +1,7 @@
+#Wed Feb 17 14:02:08 IST 2021
+base.0=E\:\\Internship\\BitBucket\\Original\\push_notification\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=E\:\\Internship\\BitBucket\\Original\\push_notification\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes2.dex
